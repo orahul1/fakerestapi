@@ -2,15 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Post 3",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
     }
   ],
   "comments": [
